@@ -1,2 +1,5 @@
 message:
   greeting: Hello from Git-repo-new-config!
+  
+server:
+  port: 8989
